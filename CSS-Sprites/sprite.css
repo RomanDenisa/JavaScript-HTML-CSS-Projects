@@ -1,0 +1,97 @@
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    height: 84px;
+    width: 84px;
+}
+
+a{
+    display: block;
+    height: 84px;
+}
+
+#social1 {
+    background: url('images/css-sprite.png') 0 -84px;
+}
+
+#social2 {
+    background: url('images/css-sprite.png') -84px -84px;
+}
+
+#social3 {
+    background: url('images/css-sprite.png') -168px -84px;
+}
+#social4 {
+    background: url('images/css-sprite.png') -252px -84px;
+}
+
+#social5 {
+    background: url('images/css-sprite.png') -336px -84px;
+}
+
+#social6 {
+    background: url('images/css-sprite.png') -420px -84px;
+}
+
+#social7 {
+    background: url('images/css-sprite.png') -504px -84px;
+}
+
+#social8 {
+    background: url('images/css-sprite.png') -588px -84px;
+}
+
+#social9 {
+    background: url('images/css-sprite.png') -672px -84px;
+}
+
+#social10 {
+    background: url('images/css-sprite.png') -756px -84px;
+}
+
+#social11 {
+    background: url('images/css-sprite.png') -840px -84px;
+}
+
+
+#social1 a:hover {
+    background: url('images/css-sprite.png') 0 0;
+}
+
+#social2 a:hover {
+    background: url('images/css-sprite.png') -84px 0;
+}
+
+#social3 a:hover {
+    background: url('images/css-sprite.png') -168px 0;
+}
+#social4 a:hover {
+    background: url('images/css-sprite.png') -252px 0;
+}
+#social5 a:hover {
+    background: url('images/css-sprite.png') -336px 0;
+}
+#social6 a:hover {
+    background: url('images/css-sprite.png') -420px 0;
+}
+#social7 a:hover {
+    background: url('images/css-sprite.png') -504px 0;
+}
+#social8 a:hover {
+    background: url('images/css-sprite.png') -588px 0;
+}
+#social9 a:hover {
+    background: url('images/css-sprite.png') -672px 0;
+}
+#social10 a:hover {
+    background: url('images/css-sprite.png') -756px 0;
+}
+#social11 a:hover {
+    background: url('images/css-sprite.png') -840px 0;
+}
